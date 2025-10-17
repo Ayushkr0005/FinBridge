@@ -1,5 +1,8 @@
-# Firebase Studio
+# FinBridge
 
-This is a NextJS starter in Firebase Studio.
+Financial management platform built with **Next.js**, **Tailwind CSS**, and **Firebase**.
 
-To get started, take a look at src/app/page.tsx.
+## Installation
+
+```bash
+npm install
