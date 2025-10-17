@@ -138,6 +138,3 @@ This project is licensed under the MIT License.
 For questions or support, reach out via GitHub Issues or email.
 
 --- 
-
-Do you want me to do that next?
-```
